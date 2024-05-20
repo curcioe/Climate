@@ -45,7 +45,7 @@ from skspatial.plotting import plot_3d
 # Step 2: Iterate through date files
 
 # Getting the current work directory (cwd)
-thisdir = 'C:/Users/Owner/Documents/Postdoc/Climate Project/01012023/'
+thisdir = 'C:/Users/Owner/Documents/Postdoc/Climate Project/01012023/' #change this filepath to point toward folder containing nc4 files
 
 # r=root, d=directories, f = files
 filelist = []
